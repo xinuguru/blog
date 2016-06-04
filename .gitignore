@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+.DS_Store
+.Python
+pip-selfcheck.json
+/myvenv
+/mysite/settings.py
